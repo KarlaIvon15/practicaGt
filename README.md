@@ -60,7 +60,7 @@ Mi tipo favorito de musica es:
 - pop
   Para enlistar elementos  en órden numerico solo basta con anteponer un numero antes del texto con un (.)
 
-  **EJEMPLO**
+m  **EJEMPLO**
 
   1. Crear una cuenta de GitHub
   2. Logearme con mi cuenta de GitHub
